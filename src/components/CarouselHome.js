@@ -11,15 +11,9 @@ function CarouselHome() {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p className='d-flex align-items-center h-100 h1 text-left mr-5 mb-5 p-5'>
-            ADI Import Export and Trading
-            Company (AIETC), is the one stop
-            shop for all your import, export,
-            trading, and other business
-            ventures in China, dedicated to
-            making the whole process easier,
-            cheaper and more convinient.
+   
+          <p className='d-flex align-items-center h-100 h1 text-left mr-md-5 mb-md-5 p-md-5'>
+            ADI Import Export and Trading Company (AIETC)
 
           </p>
         </Carousel.Caption>
@@ -32,15 +26,9 @@ function CarouselHome() {
         />
 
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p className='d-flex align-items-center h-100 h1 text-left mr-5 mb-5 p-5'>
-            ADI Import Export and Trading
-            Company (AIETC), is the one stop
-            shop for all your import, export,
-            trading, and other business
-            ventures in China, dedicated to
-            making the whole process easier,
-            cheaper and more convinient.
+
+          <p className='d-flex align-items-center h-100 h1 text-left mr-md-5 mb-md-5 p-md-5'>
+            ADI Import Export and Trading Company (AIETC).
             
             </p>
         </Carousel.Caption>
@@ -53,15 +41,9 @@ function CarouselHome() {
         />
 
         <Carousel.Caption>
-          <h3>Third slide label</h3>
-          <p className='d-flex align-items-center h-100 h1 text-left mr-5 mb-5 p-5'>
-            ADI Import Export and Trading
-            Company (AIETC), is the one stop
-            shop for all your import, export,
-            trading, and other business
-            ventures in China, dedicated to
-            making the whole process easier,
-            cheaper and more convinient.
+  
+          <p className='d-flex align-items-center h-100 h1 text-left mr-md-5 mb-md-5 p-md-5'>
+            ADI Import Export and Trading Company (AIETC)
 
           </p>
         </Carousel.Caption>

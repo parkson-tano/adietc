@@ -20,10 +20,10 @@ function Testimonials() {
                             <div className="max-w-md bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
                                 <div className="md:flex">
                                     <div className="md:shrink-0">
-                                        <img className="h-48 w-full object-cover md:h-full md:w-48" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/278707571_3139583676356900_7501531428988429234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AqhsDGPM0LcAX-Eiri_&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCWINgibANXVzmXW5JU40WseZjIGc6K2IBOKs09AnEI8w&oe=64366F9F" alt="Modern building architecture" />
+                                        <img className="h-20 w-full object-contain h-100 md:w-48 rounded-md" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/278707571_3139583676356900_7501531428988429234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AqhsDGPM0LcAX-Eiri_&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCWINgibANXVzmXW5JU40WseZjIGc6K2IBOKs09AnEI8w&oe=64366F9F" alt="Modern building architecture" />
                                     </div>
                                     <div className="p-8">
-                                        <div className="uppercase tracking-wide text-lg text-indigo-500 font-semibold">Product Tracking</div>
+                                        <div className="uppercase tracking-wide text-lg text-indigo-500 font-semibold">Mr Somena</div>
                                         <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Know where you Shipment is at anytime</a>
                                         <p className="mt-2 text-slate-500">Looking to take your team away on a retreat to enjoy awesome food and take in some sunshine? We have a list of places to do just that.</p>
                                     </div>
@@ -34,16 +34,17 @@ function Testimonials() {
                             <div className="max-w-md bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
                                 <div className="md:flex">
                                     <div className="md:shrink-0">
-                                        <img className="h-48 w-full object-cover md:h-full md:w-48" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/278707571_3139583676356900_7501531428988429234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AqhsDGPM0LcAX-Eiri_&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCWINgibANXVzmXW5JU40WseZjIGc6K2IBOKs09AnEI8w&oe=64366F9F" alt="Modern building architecture" />
+                                        <img className="h-20 w-full object-contain h-100 md:w-48 rounded-md" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/278707571_3139583676356900_7501531428988429234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AqhsDGPM0LcAX-Eiri_&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCWINgibANXVzmXW5JU40WseZjIGc6K2IBOKs09AnEI8w&oe=64366F9F" alt="Modern building architecture" />
                                     </div>
                                     <div className="p-8">
-                                        <div className="uppercase tracking-wide text-lg text-indigo-500 font-semibold">Easy Means of Payment</div>
-                                        <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Incredible accommodation for your team</a>
+                                        <div className="uppercase tracking-wide text-lg text-indigo-500 font-semibold">Mr Somena</div>
+                                        <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Know where you Shipment is at anytime</a>
                                         <p className="mt-2 text-slate-500">Looking to take your team away on a retreat to enjoy awesome food and take in some sunshine? We have a list of places to do just that.</p>
                                     </div>
                                 </div>
                             </div>
                         </Col>
+                        
                     </Row>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -52,10 +53,10 @@ function Testimonials() {
                             <div className="max-w-md bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
                                 <div className="md:flex">
                                     <div className="md:shrink-0">
-                                        <img className="h-48 w-full object-cover md:h-full md:w-48" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/278707571_3139583676356900_7501531428988429234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AqhsDGPM0LcAX-Eiri_&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCWINgibANXVzmXW5JU40WseZjIGc6K2IBOKs09AnEI8w&oe=64366F9F" alt="Modern building architecture" />
+                                        <img className="h-20 w-full object-contain h-100 md:w-48 rounded-md" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/278707571_3139583676356900_7501531428988429234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AqhsDGPM0LcAX-Eiri_&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCWINgibANXVzmXW5JU40WseZjIGc6K2IBOKs09AnEI8w&oe=64366F9F" alt="Modern building architecture" />
                                     </div>
                                     <div className="p-8">
-                                        <div className="uppercase tracking-wide text-lg text-indigo-500 font-semibold">Product Tracking</div>
+                                        <div className="uppercase tracking-wide text-lg text-indigo-500 font-semibold">Mr Somena</div>
                                         <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Know where you Shipment is at anytime</a>
                                         <p className="mt-2 text-slate-500">Looking to take your team away on a retreat to enjoy awesome food and take in some sunshine? We have a list of places to do just that.</p>
                                     </div>
@@ -66,16 +67,17 @@ function Testimonials() {
                             <div className="max-w-md bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
                                 <div className="md:flex">
                                     <div className="md:shrink-0">
-                                        <img className="h-48 w-full object-cover md:h-full md:w-48" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/278707571_3139583676356900_7501531428988429234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AqhsDGPM0LcAX-Eiri_&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCWINgibANXVzmXW5JU40WseZjIGc6K2IBOKs09AnEI8w&oe=64366F9F" alt="Modern building architecture" />
+                                        <img className="h-20 w-full object-contain h-100 md:w-48 rounded-md" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/278707571_3139583676356900_7501531428988429234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AqhsDGPM0LcAX-Eiri_&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCWINgibANXVzmXW5JU40WseZjIGc6K2IBOKs09AnEI8w&oe=64366F9F" alt="Modern building architecture" />
                                     </div>
                                     <div className="p-8">
-                                        <div className="uppercase tracking-wide text-lg text-indigo-500 font-semibold">Easy Means of Payment</div>
-                                        <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Incredible accommodation for your team</a>
+                                        <div className="uppercase tracking-wide text-lg text-indigo-500 font-semibold">Mr Somena</div>
+                                        <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Know where you Shipment is at anytime</a>
                                         <p className="mt-2 text-slate-500">Looking to take your team away on a retreat to enjoy awesome food and take in some sunshine? We have a list of places to do just that.</p>
                                     </div>
                                 </div>
                             </div>
                         </Col>
+
                     </Row>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -84,10 +86,10 @@ function Testimonials() {
                             <div className="max-w-md bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
                                 <div className="md:flex">
                                     <div className="md:shrink-0">
-                                        <img className="h-48 w-full object-cover md:h-full md:w-48" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/278707571_3139583676356900_7501531428988429234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AqhsDGPM0LcAX-Eiri_&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCWINgibANXVzmXW5JU40WseZjIGc6K2IBOKs09AnEI8w&oe=64366F9F" alt="Modern building architecture" />
+                                        <img className="h-20 w-full object-contain h-100 md:w-48 rounded-md" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/278707571_3139583676356900_7501531428988429234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AqhsDGPM0LcAX-Eiri_&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCWINgibANXVzmXW5JU40WseZjIGc6K2IBOKs09AnEI8w&oe=64366F9F" alt="Modern building architecture" />
                                     </div>
                                     <div className="p-8">
-                                        <div className="uppercase tracking-wide text-lg text-indigo-500 font-semibold">Product Tracking</div>
+                                        <div className="uppercase tracking-wide text-lg text-indigo-500 font-semibold">Mr Somena</div>
                                         <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Know where you Shipment is at anytime</a>
                                         <p className="mt-2 text-slate-500">Looking to take your team away on a retreat to enjoy awesome food and take in some sunshine? We have a list of places to do just that.</p>
                                     </div>
@@ -98,18 +100,20 @@ function Testimonials() {
                             <div className="max-w-md bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
                                 <div className="md:flex">
                                     <div className="md:shrink-0">
-                                        <img className="h-48 w-full object-cover md:h-full md:w-48" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/278707571_3139583676356900_7501531428988429234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AqhsDGPM0LcAX-Eiri_&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCWINgibANXVzmXW5JU40WseZjIGc6K2IBOKs09AnEI8w&oe=64366F9F" alt="Modern building architecture" />
+                                        <img className="h-20 w-full object-contain h-100 md:w-48 rounded-md" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/278707571_3139583676356900_7501531428988429234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AqhsDGPM0LcAX-Eiri_&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCWINgibANXVzmXW5JU40WseZjIGc6K2IBOKs09AnEI8w&oe=64366F9F" alt="Modern building architecture" />
                                     </div>
                                     <div className="p-8">
-                                        <div className="uppercase tracking-wide text-lg text-indigo-500 font-semibold">Easy Means of Payment</div>
-                                        <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Incredible accommodation for your team</a>
+                                        <div className="uppercase tracking-wide text-lg text-indigo-500 font-semibold">Mr Somena</div>
+                                        <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Know where you Shipment is at anytime</a>
                                         <p className="mt-2 text-slate-500">Looking to take your team away on a retreat to enjoy awesome food and take in some sunshine? We have a list of places to do just that.</p>
                                     </div>
                                 </div>
                             </div>
                         </Col>
+
                     </Row>
                 </Carousel.Item>
+
             </Carousel>
         </Container>
     )
